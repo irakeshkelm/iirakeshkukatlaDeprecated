@@ -1,0 +1,47 @@
+﻿Pecking order - Girls
+
+
+girls - Naturalized, Born (aka Rakesh Kukatla, aka Rick Kukatla)
+[
+legal
+open legal
+try
+{
+Independent interest and Militia
+}
+]
+
+
+Beautiful girls - Naturalized, Born (Sean?, aka Sean Fennell)
+[
+illegal
+open illegal
+try
+{
+pubic health
+}
+]
+
+
+Ugly girls - Naturalized, Born (aka Bill Clinton, aka William J Clinton)
+[
+legal
+open illegal
+continue
+{
+business as usual
+}
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm

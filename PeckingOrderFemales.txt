@@ -1,0 +1,47 @@
+﻿Pecking order - Females
+
+
+females - Naturalized, Born (aka SiFive - Yunsup Lee, aka - arm?)
+[
+legal
+open legal
+try
+{
+Independent interest and Militia
+}
+]
+
+
+Beautiful females - Naturalized, Born (aka Jensen Huang, aka - arm?)
+[
+illegal
+open illegal
+try
+{
+pubic health
+}
+]
+
+
+Ugly females - Naturalized, Born (aka - arm ?, aka Michael Dell)
+[
+legal
+open illegal
+continue
+{
+business as usual
+}
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
